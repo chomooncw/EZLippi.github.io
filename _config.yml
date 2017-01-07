@@ -34,5 +34,3 @@ config:
   js_dir:
   img_dir:
   css_dir:
-
-theme: jekyll-theme-cayman
